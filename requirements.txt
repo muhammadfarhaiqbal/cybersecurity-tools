@@ -1,0 +1,3 @@
+# requirements.txt — stdlib only, nothing to install.
+# Python 3.8+ standard library is all these tools need.
+# (No third-party packages.)
